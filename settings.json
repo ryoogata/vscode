@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Visual Studio Light",
+    "files.autoSave": "afterDelay",
+    "explorer.confirmDelete": false,
+    "python.jediEnabled": false,
+    //エディタの幅で折り返し位置が決定する（エディタ右端で折り返す）
+    "editor.wordWrap": "on"
+}
